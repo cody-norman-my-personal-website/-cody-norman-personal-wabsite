@@ -1,2 +1,2 @@
-# -cody-norman-personal-wabsite
+# -cody-norman-personal-website
 my first website 
